@@ -1,4 +1,4 @@
-import NavBar from "@/components/navbar/NavBar";
+import { NavBar } from "@/components";
 
 export default function GeneralLayout({
   children
